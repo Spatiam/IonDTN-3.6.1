@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Montilla/Desktop/Spatiam.nosync/Android/IonDTN-3.6.1/ion-opensource-3.6.1/arch-android/IonDTN/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/Montilla/.android/build-cache/e01f97d030929261e390d034770bdbb8c08b09be/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/Montilla/Desktop/Spatiam.nosync/Android/IonDTN-3.6.1/ion-opensource-3.6.1/arch-android/IonDTN/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/Montilla/.android/build-cache/e01f97d030929261e390d034770bdbb8c08b09be/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/Montilla/Desktop/Spatiam.nosync/Android/IonDTN-3.6.1/ion-opensource-3.6.1/arch-android/IonDTN/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/Montilla/.android/build-cache/e01f97d030929261e390d034770bdbb8c08b09be/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/Montilla/Desktop/Spatiam.nosync/Android/IonDTN-3.6.1/ion-opensource-3.6.1/arch-android/IonDTN/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/Montilla/.android/build-cache/e01f97d030929261e390d034770bdbb8c08b09be/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

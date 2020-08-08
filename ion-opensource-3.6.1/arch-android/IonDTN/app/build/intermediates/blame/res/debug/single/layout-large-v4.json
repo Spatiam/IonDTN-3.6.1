@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/Montilla/Desktop/Spatiam.nosync/Android/IonDTN-3.6.1/ion-opensource-3.6.1/arch-android/IonDTN/app/build/intermediates/res/merged/debug/layout-large-v4/recycler_range_view_item_layout.xml",
+        "source": "/Users/Montilla/Desktop/Spatiam.nosync/Android/IonDTN-3.6.1/ion-opensource-3.6.1/arch-android/IonDTN/app/src/main/res/layout-large/recycler_range_view_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Montilla/Desktop/Spatiam.nosync/Android/IonDTN-3.6.1/ion-opensource-3.6.1/arch-android/IonDTN/app/build/intermediates/res/merged/debug/layout-large-v4/recycler_scheme_view_item_layout.xml",
+        "source": "/Users/Montilla/Desktop/Spatiam.nosync/Android/IonDTN-3.6.1/ion-opensource-3.6.1/arch-android/IonDTN/app/src/main/res/layout-large/recycler_scheme_view_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Montilla/Desktop/Spatiam.nosync/Android/IonDTN-3.6.1/ion-opensource-3.6.1/arch-android/IonDTN/app/build/intermediates/res/merged/debug/layout-large-v4/recycler_contact_view_item_layout.xml",
+        "source": "/Users/Montilla/Desktop/Spatiam.nosync/Android/IonDTN-3.6.1/ion-opensource-3.6.1/arch-android/IonDTN/app/src/main/res/layout-large/recycler_contact_view_item_layout.xml"
+    }
+]

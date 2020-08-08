@@ -1,0 +1,3 @@
+nm/mgr/nm_mgr-nm_mgr_sql.o: nm/mgr/nm_mgr_sql.c config.h
+
+config.h:

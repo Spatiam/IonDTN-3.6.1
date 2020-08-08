@@ -253,6 +253,9 @@ LOCAL_CFLAGS = -g -Werror -Wall -Wno-unused-variable -Wno-int-to-pointer-cast -D
 
 LOCAL_LDLIBS :=  -llog
 
+LOCAL_CFLAGS += -Wno-error=user-defined-warnings
+LOCAL_ALLOW_UNDEFINED_SYMBOLS := true
+
 LOCAL_SRC_FILES := iondtn_administration.c iondtn_transmission.c iondtn_listinfo.cpp gdslogger.c $(MY_ICISOURCES) $(MY_DGRSOURCES) $(MY_BPSOURCES) $(MY_SBSPSOURCES) $(MY_NMSOURCES) $(MY_BSSSOURCES)
 
 #	$(MY_RESTARTSOURCE) $(MY_LTPSOURCES) $(MY_TESTSOURCES) $(MY_CFDPSOURCES)

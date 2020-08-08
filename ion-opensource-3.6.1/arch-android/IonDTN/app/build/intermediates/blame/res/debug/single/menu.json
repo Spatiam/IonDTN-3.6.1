@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Montilla/Desktop/Spatiam.nosync/Android/IonDTN-3.6.1/ion-opensource-3.6.1/arch-android/IonDTN/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/Montilla/Desktop/Spatiam.nosync/Android/IonDTN-3.6.1/ion-opensource-3.6.1/arch-android/IonDTN/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/Montilla/Desktop/Spatiam.nosync/Android/IonDTN-3.6.1/ion-opensource-3.6.1/arch-android/IonDTN/app/build/intermediates/res/merged/debug/menu/activity_main_drawer.xml",
+        "source": "/Users/Montilla/Desktop/Spatiam.nosync/Android/IonDTN-3.6.1/ion-opensource-3.6.1/arch-android/IonDTN/app/src/main/res/menu/activity_main_drawer.xml"
+    }
+]

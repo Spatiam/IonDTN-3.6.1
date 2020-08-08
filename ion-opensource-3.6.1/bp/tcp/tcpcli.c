@@ -710,12 +710,12 @@ static int	sendShutdown(TcpclSession *session, char reason,
 	}
 
 	shutdown[0] = 0x50;
-	if (reason >= 0)		/*	Reason code.		*/
-	{
+	//if (reason >= 0)		/*	Reason code.		*/
+	//{
 		shutdown[0] |= 0x02;
 		shutdown[1] = reason;
 		len++;
-	}
+	//}
 
 	if (doNotReconnect)
 	{
