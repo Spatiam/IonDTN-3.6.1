@@ -297,7 +297,7 @@ static IonVdb	*_ionvdb(char **name)
 #include "gdslogger.c"
 #else
 
-static void	writeMemoToIonLog(char *text)
+void	writeMemoToIonLog(char *text)
 {
 	static ResourceLock	logFileLock;
 	static char		ionLogFileName[264] = "";

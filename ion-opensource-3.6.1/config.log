@@ -30,8 +30,8 @@ Kernel configured for up to 4 processors.
 Processor type: x86_64h (Intel x86-64h Haswell)
 Processors active: 0 1 2 3
 Primary memory available: 8.00 gigabytes
-Default processor set: 434 tasks, 2261 threads, 4 processors
-Load average: 3.38, Mach factor: 1.04
+Default processor set: 457 tasks, 2736 threads, 4 processors
+Load average: 1.56, Mach factor: 2.44
 /bin/machine           = unknown
 /usr/bin/oslevel       = unknown
 /bin/universe          = unknown
@@ -1314,6 +1314,7 @@ on DontTryMe.local
 config.status:1159: creating Makefile
 config.status:1159: creating contrib/Makefile
 config.status:1159: creating config.h
+config.status:1340: config.h is unchanged
 config.status:1388: executing depfiles commands
 config.status:1388: executing libtool commands
 

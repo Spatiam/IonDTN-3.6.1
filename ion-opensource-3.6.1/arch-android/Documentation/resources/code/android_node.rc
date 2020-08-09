@@ -30,20 +30,20 @@ a endpoint ipn:1.2 q
 a protocol tcp 1400 100
 
 # FIXME the IP address has to be changed to your network structure
-a induct tcp 192.168.8.245:4556 tcpcli
+a induct tcp 192.168.0.150:4556 tcpcli
 
 # FIXME the IP address has to be changed to your network structure
-a outduct tcp 192.168.8.245:4556 tcpclo
+a outduct tcp 192.168.0.150:4556 tcpclo
 
 # FIXME the IP address has to be changed to your network structure
-a outduct tcp 192.168.8.247:4556 tcpclo
+a outduct tcp 192.168.232.2:4556 tcpclo
 
 s
 ## end bpadmin
 
 ## begin ipnadmin
 # FIXME the IP address has to be changed to your network structure
-a plan 1 tcp/192.168.8.247:4556
+a plan 1 tcp/192.168.232.2:4556
 # FIXME the IP address has to be changed to your network structure
-a plan 2 tcp/192.168.8.245:4556
+a plan 2 tcp/192.168.0.150:4556
 ## end ipnadmin

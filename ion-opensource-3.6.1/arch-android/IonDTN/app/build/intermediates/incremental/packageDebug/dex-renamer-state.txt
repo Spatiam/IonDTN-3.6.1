@@ -1,4 +1,4 @@
-#Thu Aug 06 18:15:36 CEST 2020
+#Sun Aug 09 14:18:42 CEST 2020
 base.0=/Users/Montilla/Desktop/Spatiam.nosync/Android/IonDTN-3.6.1/ion-opensource-3.6.1/arch-android/IonDTN/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
 file.0=/Users/Montilla/Desktop/Spatiam.nosync/Android/IonDTN-3.6.1/ion-opensource-3.6.1/arch-android/IonDTN/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
