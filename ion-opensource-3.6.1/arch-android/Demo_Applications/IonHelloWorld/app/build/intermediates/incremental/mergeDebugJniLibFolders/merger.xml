@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/Montilla/Desktop/Spatiam.nosync/Android/IonDTN-3.6.1/ion-opensource-3.6.1/arch-android/Demo_Applications/IonHelloWorld/app/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/Montilla/Desktop/Spatiam.nosync/Android/IonDTN-3.6.1/ion-opensource-3.6.1/arch-android/Demo_Applications/IonHelloWorld/app/src/debug/jniLibs"/></dataSet></merger>

@@ -1,0 +1,4 @@
+read interval of 15 ad 15.000000
+64 bytes from ipn:1.1  seq=0 time=0.033070 s
+1 bundles transmitted, 1 bundles received, 0.00% bundle loss, time 1.998720 s
+rtt min/avg/max/sdev = 33.070/33.070/33.070/0.000 ms
